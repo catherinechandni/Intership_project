@@ -1,0 +1,1 @@
+const activepage = window.location;

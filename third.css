@@ -1,0 +1,20 @@
+  
+
+.fors{
+    height: 600px;
+    width: 600px;
+    line-height: 2em;
+    position: relative;
+    padding: 150PX;
+}
+.ok{
+    margin: auto;
+width: 50%;
+border: 3px solid black;
+padding: 10px;
+padding-bottom: 200px;
+position:absolute;
+top: 200px;
+right: 200px;
+
+}
